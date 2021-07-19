@@ -24,7 +24,7 @@ on:
   workflow_dispatch:
     inputs:
       serverUrl:
-        description: 'https://lml62.fr'     
+        description: 'https://aide.lml62.fr'     
         required: true
       rid:
         description: 'Server Runtime Identifier'     
